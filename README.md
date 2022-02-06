@@ -1,7 +1,8 @@
-<h1 align="left">Hey there 👋, I'm Facundo</h1>
-<h3 align="left">I like DevOps, Kubernetes, and Azure.</h3>
+# Hi there, I'm Facundo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## I am a solutions architect at [BoxBoat, an IBM Company](https://github.com/boxboat)
 
 - 📝 I regularly write articles on [gaunacode.com](gaunacode.com)
+- 📊 I can make pretty architecture charts
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
