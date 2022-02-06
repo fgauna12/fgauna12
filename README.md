@@ -2,7 +2,8 @@
 ## I am a solutions architect at [BoxBoat, an IBM Company](https://github.com/boxboat)
 
 - 📝 I regularly write articles on [gaunacode.com](gaunacode.com)
-- 📊 I can make pretty architecture charts
+- 🙂 I could put more bullet points here, but who cares 🙃
+- 📧 If you want to connect, reach out on **LinkedIn**. One day, I'll be active on Twitter.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
