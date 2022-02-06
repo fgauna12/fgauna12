@@ -1,8 +1,9 @@
 # Hi there, I'm Facundo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ## I am a solutions architect at [BoxBoat, an IBM Company](https://github.com/boxboat)
 
+- 🤓 I enjoy DevOps, Kubernetes, and Azure. Infrastructure as Code is cool.
 - 📝 I regularly write articles on [gaunacode.com](gaunacode.com)
-- 🙂 I could put more bullet points here, but who cares 🙃
+- 🙂 I could put more bullet points here 🙃 
 - 📧 If you want to connect, reach out on **LinkedIn**. One day, I'll be active on Twitter.
 
 ### Blogs posts
