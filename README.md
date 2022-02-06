@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You don&#39;t need secrets to deploy to Azure from GitHub Actions 🤯](https://gaunacode.com/you-dont-need-secrets-to-deploy-to-azure-from-github-actions)
+- [Setting up an AKS cluster with Argo CD](https://gaunacode.com/setting-up-an-aks-cluster-with-argo-cd)
+- [Deploying an ingress controller to an internal virtual network and fronted by an Azure Application Gateway with WAF](https://gaunacode.com/deploying-an-ingress-controller-to-an-internal-virtual-network-and-fronted-by-an-azure-application-gateway-with-waf)
+- [Migrating apps from one AKS cluster to another using Velero](https://gaunacode.com/migrating-apps-from-one-aks-cluster-to-another-using-velero)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
